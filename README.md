@@ -18,7 +18,8 @@ and innovative technologies.
 
 - **👯 I’m looking to collaborate on**:
   - Open-source projects that involve large-scale systems or require performance optimization.
-  - Solving some real world problems in general ...
+  - Cutting-edge research in quantum and classical communication networks
+  - Interesting real world problems in general...
 
 ### 💻 Projects
 You can browse repositories to know about the projects I am worked on. Some projects which 
